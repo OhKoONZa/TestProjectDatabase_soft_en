@@ -1,6 +1,7 @@
 class TestV1{
     static TestV1 v = new TestV1();
     char[][] maze = new char[10][10];
+    
     public static void main(String[] args){
         System.out.println("Hello world");
         System.out.println("wut create file2");
